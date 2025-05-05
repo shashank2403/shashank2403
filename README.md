@@ -1,8 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently exploring tech-enabled products and business strategy<br>  
-📚 Interested in problem solving, products, and human-centered thinking<br>
-🤝 Open to collaborating on any cool and challenging projects<br>
-📫 Reach me at shashanknarain24@gmail.com  <br>
+🔭 I'm currently exploring tech-enabled products and business strategy<br>📚 Interested in problem solving, products, and human-centered thinking<br>🤝 Open to collaborating on any cool and challenging projects<br>📫 Reach me at shashanknarain24@gmail.com  <br>
 
 
 # 💻 Tech Stack:
