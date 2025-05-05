@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I'm currently working on Flutter app development and Natural Language Processing<br>🤝 I'm keen to collaborate on any cool projects<br>🎯 I'm looking to improve my competitive programming skills<br>📫 Reach me at shashanknarain24@gmail.com<br>
+🔭 I'm currently exploring tech-enabled products and business strategy<br>  
+📚 Interested in problem solving, products, and human-centered thinking<br>
+🤝 Open to collaborating on any cool and challenging projects<br>
+📫 Reach me at shashanknarain24@gmail.com  <br>
 
 
 # 💻 Tech Stack:
