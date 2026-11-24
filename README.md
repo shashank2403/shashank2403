@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently exploring strategic problems across tech, product and systems <br>🤝 Open to collaborating on any cool and challenging projects<br>📫 Reach me at shashanknarain24@gmail.com
+🔭 I'm currently exploring strategic problems across investment banking and AI. <br>🤝 Open to collaborating on any cool and challenging projects.<br>📫 Reach me at p24shashankn@iima.ac.in
 
 
 # 💻 Tech Stack:
